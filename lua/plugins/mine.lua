@@ -14,4 +14,11 @@ return {
       colorscheme = "solarized",
     }
   },
+  {
+    "akinsho/toggleterm.nvim",
+    version = "*",
+    opts = {
+      shade_terminals = false,
+    },
+  },
 }
