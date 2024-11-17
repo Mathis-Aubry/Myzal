@@ -3,5 +3,5 @@
 -- Add any additional options here
 vim.o.conceallevel = 0
 vim.opttabstop = 4
-vim.o.shifwidth = 4
+vim.o.shiftwidth = 4
 vim.opt.expandtab = true
