@@ -1,0 +1,6 @@
+# https://github.com/LazyVim/LazyVim/discussions/2268
+# https://github.com/LazyVim/LazyVim/discussions/4094
+# https://github.com/DavidAnson/markdownlint/blob/main/doc/md007.md
+config:
+  MD007:
+    indent: 4
